@@ -41,7 +41,7 @@ En caso de empate, el juego se declarará como empate.
 
 **¡Disfruta jugando al clásico juego de "Piedra, Papel o Tijera"!**
 
-Créditos
+## Créditos
 Este juego fue desarrollado en Python por Lucas Soria y es parte del proyecto Piedra, Papel o Tijera.
 
 ## Contribuciones
